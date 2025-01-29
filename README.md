@@ -1,0 +1,2 @@
+# SnarkyAIDekstop
+Official SnarkyAI repository
